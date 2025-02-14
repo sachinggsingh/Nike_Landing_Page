@@ -4,7 +4,7 @@ Welcome to the **Nike Landing Page** project! This is a visually appealing and r
 
 ## 🚀 Live Demo
 
-👉 [Live Preview](#) *(Add your hosted link here)*
+ (<a href="https://nike-landing-page-ten-eta.vercel.app/">👉 Live Preview </a>)
 
 ---
 
